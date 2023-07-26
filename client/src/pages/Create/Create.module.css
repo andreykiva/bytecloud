@@ -1,0 +1,22 @@
+.Create {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 50px 20px;
+}
+
+.FormContent {
+	display: flex;
+	margin-bottom: 40px;
+	gap: 30px;
+}
+
+.FormButtons {
+	display: flex;
+	justify-content: flex-end;
+	gap: 20px;
+}
+
+.FormBtn {
+	max-width: 150px;
+}

@@ -1,0 +1,21 @@
+.FormGroup {
+	display: flex;
+	flex-direction: column;
+}
+
+.FormGroup label {
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.TextArea {
+	width: 400px;
+	height: 600px;
+	outline: none;
+	border-radius: 10px;
+	padding: 10px;
+	font-size: 16px;
+	background-color: rgb(32, 32, 32);
+	color: var(--main-color);
+	resize: none;
+}
